@@ -1,0 +1,50 @@
+body {
+    color: #000000;
+    background-color: #fcfcfc;
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    font-family: 'times new roman', times, serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+.container {
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h6 {
+    font-family: 'times new roman', times, serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 0 1em 0;
+    padding: 0;
+
+}
+
+.center {
+    text-align: center;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.imgcenter {
+    text-align: center;
+    max-width: 100%; 
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}

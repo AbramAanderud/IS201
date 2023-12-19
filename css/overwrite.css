@@ -1,0 +1,38 @@
+h2 {
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0 0 1em;
+    padding: 0;
+    text-align: center;
+}
+
+.black-background {
+    background-color: #000;
+    color: #fff; 
+    padding: 20px; 
+}
+
+.black-background h1,
+.black-background h2,
+.black-background h3,
+.black-background h4,
+.black-background h5,
+.black-background h6 {
+    color: #fff;
+}
+
+.wayne {
+    color: #000000;
+    background-color: #9c6868;
+    color-scheme: dark;
+}
+
+.black-background p {
+    color: #fff;
+}
+
+
+.black-background a {
+    color: #fff;
+}
